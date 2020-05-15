@@ -1,0 +1,342 @@
+2020-05-13 08:25:49,501 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-13 08:25:49,501 [main] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-13 08:25:49,508 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-13 08:25:49,508 [main] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-13 20:06:42,044 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-13 20:06:42,044 [main] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-13 20:06:42,052 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-13 20:06:42,052 [main] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-13 20:16:19,943 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-13 20:16:19,943 [main] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-13 20:16:19,955 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-13 20:16:19,955 [main] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-13 20:16:45,720 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 24
+2020-05-13 20:16:45,720 [main] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 24
+2020-05-13 20:16:55,610 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 9
+2020-05-13 20:16:55,610 [main] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 9
+2020-05-13 20:17:44,881 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-13 20:17:44,881 [main] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-13 20:17:44,892 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-13 20:17:44,892 [main] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-13 20:18:08,182 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 21
+2020-05-13 20:18:08,182 [main] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 21
+2020-05-13 20:18:19,604 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 11
+2020-05-13 20:18:19,604 [main] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 11
+2020-05-13 20:26:41,504 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-13 20:26:41,504 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 2 is: admin123
+2020-05-13 20:26:41,515 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-13 20:26:41,515 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 2 is: admin
+2020-05-13 20:28:10,186 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-13 20:28:10,186 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-13 20:28:10,194 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-13 20:28:10,194 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 06:50:08,370 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 06:50:08,370 [main] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 06:50:08,387 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 06:50:08,387 [main] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 06:52:45,035 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 06:52:45,035 [main] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 06:52:45,042 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 06:52:45,042 [main] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 07:24:00,018 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 07:24:00,018 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 07:24:00,031 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 07:24:00,031 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 07:55:48,979 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 07:55:48,979 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 07:55:49,006 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 07:55:49,006 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 08:22:36,261 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 08:22:36,261 [main] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 08:22:36,268 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 08:22:36,268 [main] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 08:22:55,236 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 17
+2020-05-14 08:22:55,236 [main] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 17
+2020-05-14 08:23:02,772 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 7
+2020-05-14 08:23:02,772 [main] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 7
+2020-05-14 08:41:31,878 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 08:41:31,878 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 08:41:31,888 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 08:41:31,888 [main] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 08:46:17,533 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 08:46:17,533 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 08:46:27,794 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 08:46:27,794 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 08:46:33,264 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 08:46:33,264 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 08:46:33,264 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 08:46:33,264 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 08:46:57,497 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 21
+2020-05-14 08:46:57,497 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 21
+2020-05-14 08:47:07,912 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 10
+2020-05-14 08:47:07,912 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 10
+2020-05-14 08:47:08,905 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 08:47:08,905 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 08:47:08,906 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 08:47:08,906 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 08:47:29,974 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 19
+2020-05-14 08:47:29,974 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 19
+2020-05-14 08:47:39,821 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 9
+2020-05-14 08:47:39,821 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 9
+2020-05-14 08:47:40,476 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 08:47:40,476 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 08:47:40,476 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 08:47:40,476 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 09:28:29,840 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:28:29,840 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:28:38,229 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:28:38,229 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:28:42,273 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 09:28:42,273 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 09:28:42,274 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 09:28:42,274 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 09:28:58,160 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 14
+2020-05-14 09:28:58,160 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 14
+2020-05-14 09:29:05,051 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 6
+2020-05-14 09:29:05,051 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 6
+2020-05-14 09:29:05,649 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 09:29:05,649 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 09:29:05,649 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 09:29:05,649 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 09:29:21,898 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 15
+2020-05-14 09:29:21,898 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 15
+2020-05-14 09:29:28,820 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 6
+2020-05-14 09:29:28,820 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 6
+2020-05-14 09:29:29,361 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 09:29:29,361 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 09:29:29,362 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 09:29:29,362 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 09:32:32,322 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:32:32,322 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:32:40,629 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:32:40,629 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:32:44,568 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 09:32:44,568 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 09:32:44,569 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 09:32:44,569 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 09:33:01,145 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 14
+2020-05-14 09:33:01,145 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 14
+2020-05-14 09:33:08,460 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 7
+2020-05-14 09:33:08,460 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 7
+2020-05-14 09:33:09,086 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 09:33:09,086 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 09:33:09,087 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 09:33:09,087 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 09:33:25,363 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 14
+2020-05-14 09:33:25,363 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 14
+2020-05-14 09:33:32,553 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 7
+2020-05-14 09:33:32,553 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 7
+2020-05-14 09:33:33,267 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 09:33:33,267 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 09:33:33,268 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 09:33:33,268 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 09:36:11,373 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:36:11,373 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:36:27,423 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:36:27,423 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 09:36:33,367 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 09:36:33,367 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 09:36:33,367 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 09:36:33,367 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 09:36:45,510 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 10
+2020-05-14 09:36:45,510 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 10
+2020-05-14 09:36:50,465 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 4
+2020-05-14 09:36:50,465 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 4
+2020-05-14 09:36:51,257 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 09:36:51,257 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 09:36:51,258 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 09:36:51,258 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 09:37:02,947 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 9
+2020-05-14 09:37:02,947 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 9
+2020-05-14 09:37:07,602 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 4
+2020-05-14 09:37:07,602 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 4
+2020-05-14 09:37:07,855 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 09:37:07,855 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 09:37:07,856 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 09:37:07,856 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 10:34:02,972 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:34:02,972 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:34:13,633 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:34:13,633 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:34:18,466 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 10:34:18,466 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 10:34:18,467 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 10:34:18,467 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 10:34:47,622 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 26
+2020-05-14 10:34:47,622 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 26
+2020-05-14 10:35:01,873 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 14
+2020-05-14 10:35:01,873 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 14
+2020-05-14 10:35:02,858 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 10:35:02,858 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 10:35:02,858 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 10:35:02,858 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 10:35:27,535 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 22
+2020-05-14 10:35:27,535 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 22
+2020-05-14 10:35:40,559 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 13
+2020-05-14 10:35:40,559 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 13
+2020-05-14 10:35:41,361 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 10:35:41,361 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 10:35:41,361 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 10:35:41,361 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 10:38:27,516 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:38:27,516 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:38:36,461 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:38:36,461 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:38:40,942 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 10:38:40,942 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 10:38:40,944 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 10:38:40,944 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 10:39:05,649 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 22
+2020-05-14 10:39:05,649 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 22
+2020-05-14 10:39:17,758 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 12
+2020-05-14 10:39:17,758 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 12
+2020-05-14 10:39:18,776 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 10:39:18,776 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 10:39:18,777 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 10:39:18,777 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 10:39:42,038 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 21
+2020-05-14 10:39:42,038 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 21
+2020-05-14 10:39:53,943 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 11
+2020-05-14 10:39:53,943 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 11
+2020-05-14 10:39:54,695 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 10:39:54,695 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 10:39:54,695 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 10:39:54,695 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 10:41:53,329 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:41:53,329 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:42:01,891 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:42:01,891 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 10:42:07,196 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 10:42:07,196 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 10:42:07,201 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 10:42:07,201 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 10:42:35,126 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 25
+2020-05-14 10:42:35,126 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 25
+2020-05-14 10:42:47,602 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 12
+2020-05-14 10:42:47,602 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 12
+2020-05-14 10:42:48,540 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 10:42:48,540 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 10:42:48,547 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 10:42:48,547 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 10:43:18,257 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 28
+2020-05-14 10:43:18,257 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 28
+2020-05-14 10:43:32,860 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 14
+2020-05-14 10:43:32,860 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 14
+2020-05-14 10:43:33,831 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 10:43:33,831 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 10:43:33,836 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 10:43:33,836 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 19:42:15,985 - com.busyqa.test.TestCases.TC04_LoginTest -INFO - Email id for the TC 4 is: Admin
+2020-05-14 19:42:15,985 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC04_LoginTest - Email id for the TC 4 is: Admin
+2020-05-14 19:42:15,991 - com.busyqa.test.TestCases.TC04_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-05-14 19:42:15,991 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC04_LoginTest - Password for the TC 4 is: admin123
+2020-05-14 19:43:55,191 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 19:43:55,191 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 19:44:04,107 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 19:44:04,107 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 19:44:12,863 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 19:44:12,863 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-14 19:44:16,963 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-14 19:44:16,963 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-14 19:44:16,964 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-14 19:44:16,964 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-14 19:44:34,272 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 15
+2020-05-14 19:44:34,272 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 15
+2020-05-14 19:44:41,636 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 7
+2020-05-14 19:44:41,636 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 7
+2020-05-14 19:44:42,290 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-14 19:44:42,290 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-14 19:44:42,291 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-14 19:44:42,291 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-14 19:44:58,324 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 14
+2020-05-14 19:44:58,324 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 14
+2020-05-14 19:45:05,174 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 6
+2020-05-14 19:45:05,174 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 6
+2020-05-14 19:45:05,667 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-14 19:45:05,667 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-14 19:45:05,668 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-14 19:45:05,668 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-14 19:45:07,507 - com.busyqa.test.TestCases.TC04_LoginTest -INFO - Email id for the TC 4 is: Admin
+2020-05-14 19:45:07,507 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC04_LoginTest - Email id for the TC 4 is: Admin
+2020-05-14 19:45:07,508 - com.busyqa.test.TestCases.TC04_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-05-14 19:45:07,508 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC04_LoginTest - Password for the TC 4 is: admin123
+2020-05-15 07:07:24,639 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:07:24,639 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:07:33,854 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:07:33,854 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:07:43,587 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:07:43,587 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:07:50,716 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-15 07:07:50,716 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-15 07:07:50,718 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-15 07:07:50,718 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-15 07:08:23,998 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 30
+2020-05-15 07:08:23,998 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 30
+2020-05-15 07:08:35,408 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 11
+2020-05-15 07:08:35,408 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 11
+2020-05-15 07:08:36,571 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-15 07:08:36,571 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-15 07:08:36,572 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-15 07:08:36,572 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-15 07:09:01,749 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 23
+2020-05-15 07:09:01,749 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 23
+2020-05-15 07:09:13,023 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 11
+2020-05-15 07:09:13,023 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 11
+2020-05-15 07:09:13,958 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-15 07:09:13,958 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-15 07:09:13,959 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-15 07:09:13,959 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-15 07:09:16,634 - com.busyqa.test.TestCases.TC04_LoginTest -INFO - Email id for the TC 4 is: Admin
+2020-05-15 07:09:16,634 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC04_LoginTest - Email id for the TC 4 is: Admin
+2020-05-15 07:09:16,635 - com.busyqa.test.TestCases.TC04_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-05-15 07:09:16,635 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC04_LoginTest - Password for the TC 4 is: admin123
+2020-05-15 07:22:37,209 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:22:37,209 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:22:46,645 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:22:46,645 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:22:57,137 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:22:57,137 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:23:02,193 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-15 07:23:02,193 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-15 07:23:02,196 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-15 07:23:02,196 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-15 07:23:59,267 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:23:59,267 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:24:09,543 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:24:09,543 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:24:19,494 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:24:19,494 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:24:24,712 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-15 07:24:24,712 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-15 07:24:24,715 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-15 07:24:24,715 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-15 07:28:01,775 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:28:01,775 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:28:11,842 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:28:11,842 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:28:21,872 - com.busyqa.test.TestBase.TestBase -INFO - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:28:21,872 [TestNG-tests-1] INFO com.busyqa.test.TestBase.TestBase - Navigating to:https://opensource-demo.orangehrmlive.com/
+2020-05-15 07:28:27,895 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Email id for the TC 1 is: admin
+2020-05-15 07:28:27,895 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Email id for the TC 1 is: admin
+2020-05-15 07:28:28,046 - com.busyqa.test.TestCases.TC01_LoginTest -INFO - Password for the TC 1 is: admin
+2020-05-15 07:28:28,046 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC01_LoginTest - Password for the TC 1 is: admin
+2020-05-15 07:28:55,846 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 25
+2020-05-15 07:28:55,846 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 25
+2020-05-15 07:29:07,895 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 12
+2020-05-15 07:29:07,895 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 12
+2020-05-15 07:29:08,822 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Email id for the TC 2 is: admin123
+2020-05-15 07:29:08,822 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Email id for the TC 2 is: admin123
+2020-05-15 07:29:08,831 - com.busyqa.test.TestCases.TC02_LoginTest -INFO - Password for the TC 2 is: admin
+2020-05-15 07:29:08,831 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC02_LoginTest - Password for the TC 2 is: admin
+2020-05-15 07:29:34,593 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds Without cache 24
+2020-05-15 07:29:34,593 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds Without cache 24
+2020-05-15 07:29:45,987 - com.busyqa.test.pageClasses.LoginPage -INFO - Time take in seconds With cache 11
+2020-05-15 07:29:45,987 [TestNG-tests-1] INFO com.busyqa.test.pageClasses.LoginPage - Time take in seconds With cache 11
+2020-05-15 07:29:46,806 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Email id for the TC 3 is: admin12
+2020-05-15 07:29:46,806 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Email id for the TC 3 is: admin12
+2020-05-15 07:29:46,815 - com.busyqa.test.TestCases.TC03_LoginTest -INFO - Password for the TC 3 is: admin123
+2020-05-15 07:29:46,815 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC03_LoginTest - Password for the TC 3 is: admin123
+2020-05-15 07:29:50,231 - com.busyqa.test.TestCases.TC04_LoginTest -INFO - Email id for the TC 4 is: Admin
+2020-05-15 07:29:50,231 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC04_LoginTest - Email id for the TC 4 is: Admin
+2020-05-15 07:29:50,235 - com.busyqa.test.TestCases.TC04_LoginTest -INFO - Password for the TC 4 is: admin123
+2020-05-15 07:29:50,235 [TestNG-tests-1] INFO com.busyqa.test.TestCases.TC04_LoginTest - Password for the TC 4 is: admin123

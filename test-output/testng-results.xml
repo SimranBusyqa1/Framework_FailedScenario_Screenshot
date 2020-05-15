@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="138973" started-at="2020-05-15T07:07:04 IST" finished-at="2020-05-15T07:09:23 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="138973" started-at="2020-05-15T07:07:04 IST" finished-at="2020-05-15T07:09:23 IST">
+      <class name="com.busyqa.test.TestCases.TC02_LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.busyqa.test.TestCases.TC02_LoginTest@ed9d034]" name="setUp" is-config="true" duration-ms="9362" started-at="2020-05-15T07:07:18 IST" finished-at="2020-05-15T07:07:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest02()[pri:0, instance:com.busyqa.test.TestCases.TC02_LoginTest@ed9d034]" name="loginTest02" duration-ms="37348" started-at="2020-05-15T07:08:36 IST" finished-at="2020-05-15T07:09:13 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest02 -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.busyqa.test.TestCases.TC02_LoginTest@ed9d034]" name="endTest" is-config="true" duration-ms="258" started-at="2020-05-15T07:09:22 IST" finished-at="2020-05-15T07:09:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.busyqa.test.TestCases.TC02_LoginTest -->
+      <class name="com.busyqa.test.TestCases.TC01_LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.busyqa.test.TestCases.TC01_LoginTest@4d3167f4]" name="setUp" is-config="true" duration-ms="13503" started-at="2020-05-15T07:07:04 IST" finished-at="2020-05-15T07:07:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest01()[pri:0, instance:com.busyqa.test.TestCases.TC01_LoginTest@4d3167f4]" name="loginTest01" duration-ms="49173" started-at="2020-05-15T07:07:47 IST" finished-at="2020-05-15T07:08:36 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest01 -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.busyqa.test.TestCases.TC01_LoginTest@4d3167f4]" name="endTest" is-config="true" duration-ms="335" started-at="2020-05-15T07:09:22 IST" finished-at="2020-05-15T07:09:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.busyqa.test.TestCases.TC01_LoginTest -->
+      <class name="com.busyqa.test.TestCases.TC04_LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.busyqa.test.TestCases.TC04_LoginTest@87f383f]" name="setUp" is-config="true" duration-ms="9844" started-at="2020-05-15T07:07:37 IST" finished-at="2020-05-15T07:07:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest04()[pri:0, instance:com.busyqa.test.TestCases.TC04_LoginTest@87f383f]" name="loginTest04" duration-ms="5775" started-at="2020-05-15T07:09:16 IST" finished-at="2020-05-15T07:09:22 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest04 -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.busyqa.test.TestCases.TC04_LoginTest@87f383f]" name="endTest" is-config="true" duration-ms="520" started-at="2020-05-15T07:09:23 IST" finished-at="2020-05-15T07:09:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.busyqa.test.TestCases.TC04_LoginTest -->
+      <class name="com.busyqa.test.TestCases.TC03_LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.busyqa.test.TestCases.TC03_LoginTest@6121c9d6]" name="setUp" is-config="true" duration-ms="9774" started-at="2020-05-15T07:07:27 IST" finished-at="2020-05-15T07:07:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest03()[pri:0, instance:com.busyqa.test.TestCases.TC03_LoginTest@6121c9d6]" name="loginTest03" duration-ms="2714" started-at="2020-05-15T07:09:13 IST" finished-at="2020-05-15T07:09:16 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest03 -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.busyqa.test.TestCases.TC03_LoginTest@6121c9d6]" name="endTest" is-config="true" duration-ms="227" started-at="2020-05-15T07:09:22 IST" finished-at="2020-05-15T07:09:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.busyqa.test.TestCases.TC03_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
