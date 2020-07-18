@@ -1,5 +1,7 @@
 package com.busyqa.test.TestBase;
 
+
+import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
@@ -9,12 +11,14 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import com.busyqa.test.configReader.ConfigReader;
+import com.busyqa.test.screenShot.CaptureScreenshot;
 
 public class TestBase {
 	
 	public static final Logger log = Logger.getLogger(TestBase.class.getName());
+	CaptureScreenshot screen;
 	
-	public WebDriver driver;
+	public static WebDriver driver;
 	
 	public void init(String env, String browser) {
 		selectBrowser(browser);
@@ -36,6 +40,7 @@ public class TestBase {
 		String browser_path= ConfigReader.getValueFromPropertyFile("Firefox_Path");
 		System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+browser_path);
 		driver=new FirefoxDriver();
+		
 	}
 	
 	else {
@@ -62,5 +67,11 @@ public class TestBase {
 			
 		}
 		
-		}
+     }
+	
+	public String failed(String testname) throws IOException {
+		screen = new CaptureScreenshot();
+		String destination = screen.getScreenShot(driver, testname);
+		return destination;
+	}
 }

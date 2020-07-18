@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.busyqa.test.TestCases.TC04_LoginTest">
+      <class name="com.busyqa.test.TestCases.TC05_FailedTC">
         <methods>
-          <include name="endTest"/>
-          <include name="loginTest01"/>
           <include name="setUp"/>
+          <include name="endTest"/>
+          <include name="failedTest"/>
         </methods>
-      </class> <!-- com.busyqa.test.TestCases.TC04_LoginTest -->
+      </class> <!-- com.busyqa.test.TestCases.TC05_FailedTC -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
